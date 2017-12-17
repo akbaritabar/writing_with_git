@@ -1,0 +1,17 @@
+---
+title: "Academic Writing with R markdown, Rstudio, Git and Github! A simple guide for social scientists"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Abstract
+
+This is a test of writing with help of git and github.
+
+We are going to do some version control with git and github.
+
+
+We will build a test word file, just to check some differences with word review tab.
