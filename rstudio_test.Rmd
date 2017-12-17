@@ -14,3 +14,8 @@ This is a test of writing (or Academic writing) with help of Git and Github.
 We are going to do some small version control with Git and Github.
 
 We will build a test word file, just to check some differences with word review tab which is good in case you intend to work on writing projects with small number of pages, little number of figures and tables and not too many versions and changes.
+
+## Next steps
+
+We need to learn more about R markdown and how to add R code chunks
+We need to know more about git "branches" "stash"
